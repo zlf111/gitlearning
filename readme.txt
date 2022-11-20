@@ -1,3 +1,4 @@
 Git are a distributed version control system.
-Git is free software.
+GIT IS MINE
+Git is free softwar2.
 Git are easy.
